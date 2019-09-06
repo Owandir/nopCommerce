@@ -1,0 +1,143 @@
+<Language Name="English" IsDefault="true" IsRightToLeft="false">
+  <LocaleResource Name="AdminEmail">
+    <Value>Administrātora e-pasts</Value>
+  </LocaleResource>
+  <LocaleResource Name="AdminEmailRequired">
+    <Value>Ievadiet administrātora e-pastu</Value>
+  </LocaleResource>
+  <LocaleResource Name="AdminPassword">
+    <Value>Administrātora parole</Value>
+  </LocaleResource>
+  <LocaleResource Name="AdminPasswordRequired">
+    <Value>Ievadiet administrātora paroli</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConfigureDirectoryPermissions">
+    <Value>Lietotājam '{0}' nav pieškirtas Labošanas tiesības katalogam '{1}'. Lūdzu, iestatiet šis tiesības.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConfigureFilePermissions">
+    <Value>Lietotājam '{0}' nav pieškirtas Labošanas tiesības datnei (failam) '{1}'. Lūdzu, iestatiet šis tiesības.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConfirmPassword">
+    <Value>Atkārtota parole</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConfirmPasswordRequired">
+    <Value>Ievadiet atkārtoti paroli</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConnectionString">
+    <Value>SQL pieslēgums</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConnectionStringRequired">
+    <Value>SQL pieslēgums (Connection string) ir jānorāda</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConnectionStringValues">
+    <Value>Ievadi SQL pieslēguma vērtības</Value>
+  </LocaleResource>
+  <LocaleResource Name="ConnectionStringWrongFormat">
+    <Value>SQL pieslēguma formatējums nav pareizs</Value>
+  </LocaleResource>
+  <LocaleResource Name="CreateDatabaseIfDoesNotExist">
+    <Value>Uztaisīt SQL datubāzi, ja tā neeksitē</Value>
+  </LocaleResource>
+  <LocaleResource Name="CreateSampleData">
+    <Value>Uztaisīt paraugu datus</Value>
+  </LocaleResource>
+  <LocaleResource Name="CustomCollation">
+    <Value>Norādīt pielāgotu SQL Servera kolāciju</Value>
+  </LocaleResource>
+  <LocaleResource Name="DatabaseCreationError">
+    <Value>Veidojot datuāzi radās kļūda: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Database">
+    <Value>Datu bāze</Value>
+  </LocaleResource>
+  <LocaleResource Name="DatabaseInformation">
+    <Value>Datu bāzes informācija</Value>
+  </LocaleResource>
+  <LocaleResource Name="DatabaseName">
+    <Value>Datu bāzes nosaukums</Value>
+  </LocaleResource>
+  <LocaleResource Name="DatabaseNameRequired">
+    <Value>Norādiet datu bāzes nosaukumu</Value>
+  </LocaleResource>
+  <LocaleResource Name="DatabaseNotExists">
+    <Value>Datubāze neeksitē, vai arī jums nav tiesību tai pieslēgties</Value>
+  </LocaleResource>
+  <LocaleResource Name="DataProviderRequired">
+    <Value>Izvēlaties datu pieslēguma piegādājumu?? Data Provider</Value>
+  </LocaleResource>
+  <LocaleResource Name="Documentation1">
+    <Value>Ja jums ir nepieciešama papildus informācija, kā lietot nopCommerce, dodieties uz</Value>
+  </LocaleResource>
+  <LocaleResource Name="Documentation2">
+    <Value>dokumentāciju nopCommerce.com</Value>
+  </LocaleResource>
+  <LocaleResource Name="Example">
+    <Value>Piemērs</Value>
+  </LocaleResource>
+  <LocaleResource Name="Install">
+    <Value>Uzstādīšana</Value>
+  </LocaleResource>
+  <LocaleResource Name="Installing">
+    <Value>Uzstāda nopCommerce...</Value>
+  </LocaleResource>
+  <LocaleResource Name="PasswordsDoNotMatch">
+    <Value>Paroles nesakrīt</Value>
+  </LocaleResource>
+  <LocaleResource Name="RawConnectionString">
+    <Value>Ievadiet pilnu SQL pieslēgumu  (pieredzējušiem lietotājiem)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Recommended">
+    <Value>[Ieteicams]</Value>
+  </LocaleResource>
+  <LocaleResource Name="RestartInstallation">
+    <Value>Sākt uzstādīšanu no sākuma</Value>
+  </LocaleResource>
+  <LocaleResource Name="RestartInstallationTooltip">
+    <Value>Nospiediet, lai sāktu uzstādīšanas procesu no paša sākuma (iztīrīs visas saglabātās vērtības)</Value>
+  </LocaleResource>
+  <LocaleResource Name="SetupFailed">
+    <Value>Uzstādīšana neizdevās: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlAuthentication">
+    <Value>Lietot SQL Server kontu</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlCompact">
+    <Value>Lietot iegulto datu glabātuvi(SQL Server Compact)</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerName">
+    <Value>SQL Servera nosaukums</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerNameRequired">
+    <Value>Norādiet SQL Servera nosaukumu </Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerPassword">
+    <Value>SQL servera parole</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerPasswordRequired">
+    <Value>Norādiet SQL servera paroli</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerUsername">
+    <Value>SQL servera konts</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlServerUsernameRequired">
+    <Value>SQL server konts ir jānorāda</Value>
+  </LocaleResource>
+  <LocaleResource Name="SqlStandard">
+    <Value>Use SQL Server (or SQL Express) database</Value>
+  </LocaleResource>
+  <LocaleResource Name="StoreInformation">
+    <Value>Store information</Value>
+  </LocaleResource>
+  <LocaleResource Name="Title">
+    <Value>nopCommerce installation</Value>
+  </LocaleResource>
+  <LocaleResource Name="Tooltip1">
+    <Value>nopCommerce is the leading ASP.NET online shop e-commerce solution. This wizard will guide you through the process of configuring nopCommerce</Value>
+  </LocaleResource>
+  <LocaleResource Name="Tooltip2">
+    <Value>To complete this wizard, you must know some information regarding your database server ("connection string"). Please contact your ISP if necessary. If you're installing on a local machine or server, you might need information from your System Admin.</Value>
+  </LocaleResource>
+  <LocaleResource Name="WindowsAuthentication">
+    <Value>Use integrated Windows authentication</Value>
+  </LocaleResource>
+</Language>
